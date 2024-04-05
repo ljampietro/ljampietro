@@ -14,7 +14,7 @@
 
 ![Java](https://img.shields.io/badge/Java-0c1014?style=for-the-badge&logo=java)
 ![kotlin](https://img.shields.io/badge/Kotlin-0c1014?style=for-the-badge&logo=Kotlin)
-![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
+//![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-0c1014?style=for-the-badge&logo=Angular)
 ![HTML5](https://img.shields.io/badge/HTML5-0c1014?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0c1014?style=for-the-badge&logo=css3&logoColor=264CE4)
