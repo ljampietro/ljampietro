@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c1014?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-jampietro-105716b4/)
 [![Github](https://img.shields.io/badge/github-0c1014?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ljampietro)
-[![Perfil DIO](https://img.shields.io/badge/-Dio.me-7f28b4?style=for-the-badge)](https://web.dio.me/users/lucas_jampietro)
+<!--[![Perfil DIO](https://img.shields.io/badge/-Dio.me-7f28b4?style=for-the-badge)](https://web.dio.me/users/lucas_jampietro) -->
 
 </div>
 
@@ -14,10 +14,11 @@
 
 ![Java](https://img.shields.io/badge/Java-0c1014?style=for-the-badge&logo=java)
 ![kotlin](https://img.shields.io/badge/Kotlin-0c1014?style=for-the-badge&logo=Kotlin)
-//![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-0c1014?style=for-the-badge&logo=Angular)
 ![HTML5](https://img.shields.io/badge/HTML5-0c1014?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0c1014?style=for-the-badge&logo=css3&logoColor=264CE4)
+![CSS3](https://img.shields.io/badge/CSS3-0c1014?style=for-the-badge&logo=css3&logoColor=264CE4) -->
+![Android](https://img.shields.io/badge/Android-green?logo=android)
 
 ![Vim](https://img.shields.io/badge/vim-0c1014?style=for-the-badge&logo=Vim)
 ![VsCode](https://img.shields.io/badge/VsCode-0c1014?style=for-the-badge&logo=visualstudiocode)
