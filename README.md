@@ -1,39 +1,47 @@
-# Lucas jampietro
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c1014?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-jampietro-105716b4/)
-[![Github](https://img.shields.io/badge/github-0c1014?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ljampietro)
-<!--[![Perfil DIO](https://img.shields.io/badge/-Dio.me-7f28b4?style=for-the-badge)](https://web.dio.me/users/lucas_jampietro) -->
-
-</div>
-
-## Skills & Tools
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0c1014?style=for-the-badge&logo=java)
-![kotlin](https://img.shields.io/badge/Kotlin-0c1014?style=for-the-badge&logo=Kotlin)
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-0c1014?style=for-the-badge&logo=Angular)
-![HTML5](https://img.shields.io/badge/HTML5-0c1014?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0c1014?style=for-the-badge&logo=css3&logoColor=264CE4) -->
-![Android](https://img.shields.io/badge/Android-green?logo=android)
-
-![Vim](https://img.shields.io/badge/vim-0c1014?style=for-the-badge&logo=Vim)
-![VsCode](https://img.shields.io/badge/VsCode-0c1014?style=for-the-badge&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-0c1014?style=for-the-badge&logo=Docker)
-![Linux](https://img.shields.io/badge/Linux-0c1014?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0c1014?style=for-the-badge&logo=windows11)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljampietro&theme=gotham&border_color=0c1014&show_icons=true&icon-color=98cfcc&hide_title=true&hide=stars)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljampietro&layout=donut&bg_color=0c1014&border_color=0c1014&title_color=1c6956&text_color=98cfcc)
-
-</div>
+<body style="background-color: black;">
+  
+  # Lucas jampietro
+  
+  <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c1014?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-jampietro-105716b4/)
+  [![Github](https://img.shields.io/badge/github-0c1014?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ljampietro)
+  <!--[![Perfil DIO](https://img.shields.io/badge/-Dio.me-7f28b4?style=for-the-badge)](https://web.dio.me/users/lucas_jampietro) -->
+  
+  </div>
+  
+  ## Skills & Tools
+  
+  <div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-rgba(0%2C%200%2C%200%2C%200)?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuNjIyIDI0Ljc0cy0xLjIzLjc0OC44NTUuOTYyYzIuNTEuMzIgMy44NDcuMjY3IDYuNjI1LS4yNjdhMTAuMDIgMTAuMDIgMCAwIDAgMS43NjMuODU1Yy02LjI1IDIuNjcyLTE0LjE2LS4xNi05LjI0NC0xLjU1em0tLjgtMy40NzNzLTEuMzM2IDEuMDE1Ljc0OCAxLjIzYzIuNzI1LjI2NyA0Ljg2Mi4zMiA4LjU1LS40MjdhMy4yNiAzLjI2IDAgMCAwIDEuMjgyLjgwMWMtNy41MzQgMi4yNDQtMTUuOTc2LjIxNC0xMC41OC0xLjYwM3ptMTQuNzQ3IDYuMDlzLjkwOC43NDgtMS4wMTUgMS4zMzZjLTMuNTggMS4wNy0xNS4wMTQgMS4zOS0xOC4yMiAwLTEuMTIyLS40OCAxLjAxNS0xLjE3NSAxLjctMS4yODIuNjk1LS4xNiAxLjA3LS4xNiAxLjA3LS4xNi0xLjIzLS44NTUtOC4xNzUgMS43NjMtMy41MjYgMi41MSAxMi43NyAyLjA4NCAyMy4yOTYtLjkwOCAxOS45ODMtMi40MDR6TTEyLjIgMTcuNjMzcy01LjgyNCAxLjM5LTIuMDg0IDEuODdjMS42MDMuMjE0IDQuNzU1LjE2IDcuNjk0LS4wNTMgMi40MDQtLjIxNCA0LjgxLS42NCA0LjgxLS42NHMtLjg1NS4zNzQtMS40NDMuNzQ4Yy01LjkzIDEuNTUtMTcuMzEyLjg1NS0xNC4wNTItLjc0OCAyLjc3OC0xLjMzNiA1LjA3Ni0xLjE3NSA1LjA3Ni0xLjE3NXptMTAuNDIgNS44MjRjNS45ODQtMy4xIDMuMjA2LTYuMDkgMS4yODItNS43MTctLjQ4LjEwNy0uNjk1LjIxNC0uNjk1LjIxNHMuMTYtLjMyLjUzNC0uNDI3YzMuNzk0LTEuMzM2IDYuNzg2IDQuMDA3LTEuMjMgNi4wOSAwIDAgLjA1My0uMDUzLjEwNy0uMTZ6bS05LjgzIDguNDQyYzUuNzcuMzc0IDE0LjU4Ny0uMjE0IDE0LjgtMi45NCAwIDAtLjQyNyAxLjA3LTQuNzU1IDEuODctNC45MTYuOTA4LTExLjAwNy44LTE0LjU4Ny4yMTQgMCAwIC43NDguNjQgNC41NDIuODU1eiIgZmlsbD0iIzRlNzg5NiIvPjxwYXRoIGQ9Ik0xOC45OTYuMDAxczMuMzEzIDMuMzY2LTMuMTUyIDguNDQyYy01LjE4MyA0LjExNC0xLjE3NSA2LjQ2NSAwIDkuMTM3LTMuMDQ2LTIuNzI1LTUuMjM2LTUuMTMtMy43NC03LjM3M0MxNC4yOTQgNi44OTMgMjAuMzMyIDUuMyAxOC45OTYuMDAxem0tMS43IDE1LjMzNWMxLjU1IDEuNzYzLS40MjcgMy4zNjYtLjQyNyAzLjM2NnMzLjk1NC0yLjAzIDIuMTM3LTQuNTQyYy0xLjY1Ni0yLjQwNC0yLjk0LTMuNTggNC4wMDctNy41ODcgMCAwLTEwLjk1MyAyLjcyNS01LjcxNyA4Ljc2M3oiIGZpbGw9IiNmNTgyMTkiLz48L3N2Zz4%3D)
+  ![Static Badge](https://img.shields.io/badge/Python-rgba(0%2C%200%2C%200%2C%200)?style=for-the-badge&logo=python)
+  ![kotlin](https://img.shields.io/badge/Kotlin-0c1014?style=for-the-badge&logo=Kotlin) ![Android](https://img.shields.io/badge/Android-rgba(0%2C%200%2C%200%2C%200)?style=for-the-badge&logo=android) ![Bash](https://img.shields.io/badge/Bash-rgba(0%2C%200%2C%200%2C%200)?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgd2lkdGg9IjY0IgogICBoZWlnaHQ9IjY0IgogICB2aWV3Qm94PSIwIDAgMzIgMzIiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzEiCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCiAgPGRlZnMKICAgICBpZD0iZGVmczEiIC8%2BCiAgPHBhdGgKICAgICBkPSJNIDI4LjA1Nyw2LjUzIDE3Ljk1MiwwLjUzMiBhIDMuOCwzLjggMCAwIDAgLTMuODgsMCBMIDMuOTY1LDYuNTMgQSA0LjAzLDQuMDMgMCAwIDAgMiwxMC4wMDIgdiAxMS45OTYgYSA0LjAzLDQuMDMgMCAwIDAgMS45NDgsMy40NzIgbCAxMC4xMDUsNS45OTggYSAzLjgsMy44IDAgMCAwIDMuODgsMCBMIDI4LjA0LDI1LjQ3IGEgNC4wMyw0LjAzIDAgMCAwIDEuOTQ4LC0zLjQ3MiBWIDEwLjAwMiBBIDQuMDMsNC4wMyAwIDAgMCAyOC4wNTgsNi41MyBaIE0gMjAuMjMsMjUuMjYyIHYgMC44NiBjIC0wLjAwMSwwLjEwOCAtMC4wNTcsMC4yMDcgLTAuMTQ4LDAuMjY1IEwgMTkuNTcsMjYuNjggYyAtMC4wOCwwLjA0MiAtMC4xNDgsMCAtMC4xNDgsLTAuMTEzIFYgMjUuNzIgYSAxLjY2LDEuNjYgMCAwIDEgLTEuMTY0LDAuMTEzIGMgLTAuMDYyLC0wLjA0MiAtMC4wODYsLTAuMTIyIC0wLjA1NiwtMC4yIGwgMC4xODMsLTAuNzggYyAwLjAxNiwtMC4wNjYgMC4wNSwtMC4xMjUgMC4xMDIsLTAuMTcgYSAwLjE4LDAuMTggMCAwIDEgMC4wNSwtMC4wMzUgMC4xMSwwLjExIDAgMCAxIDAuMDgsMCAxLjQxLDEuNDEgMCAwIDAgMS4wNTksLTAuMTM0IDEuNDEsMS40MSAwIDAgMCAwLjc5LC0xLjIxIGMgMCwtMC40MzggLTAuMjQsLTAuNjIgLTAuODIsLTAuNjI1IC0wLjczNCwwIC0xLjQsLTAuMTQgLTEuNDMsLTEuMjI0IDAuMDE3LC0wLjkzNyAwLjQ1MiwtMS44MTcgMS4xODYsLTIuNCB2IC0wLjg3MiBjIC0wLjAwMSwtMC4xIDAuMDU2LC0wLjIgMC4xNDgsLTAuMjY4IGwgMC40OTQsLTAuMzE0IGMgMC4wOCwtMC4wNDIgMC4xNDgsMCAwLjE0OCwwLjExNiB2IDAuODcyIGEgMS42MSwxLjYxIDAgMCAxIDAuOTY3LC0wLjExNiBjIDAuMDcsMC4wNCAwLjA5OCwwLjEyOCAwLjA2NCwwLjIgbCAtMC4xNzMsMC43NzMgYyAtMC4wMTUsMC4wNiAtMC4wNDUsMC4xMTMgLTAuMDg4LDAuMTU1IC0wLjAxNCwwLjAxNSAtMC4wMywwLjAyOCAtMC4wNSwwLjA0IC0wLjAyLDAuMDEyIC0wLjA1LDAuMDA4IC0wLjA3NCwwIGEgMS4yOCwxLjI4IDAgMCAwIC0wLjkzMSwwLjE1MiAxLjE3LDEuMTcgMCAwIDAgLTAuNzA2LDEuMDM3IGMgMCwwLjM5NSAwLjIwOCwwLjUxNSAwLjkwNywwLjUzIDAuOTM1LDAgMS4zMzcsMC40MjMgMS4zNDgsMS4zNjIgLTAuMDE4LDAuOTgzIC0wLjQ2NywxLjkwOCAtMS4yMjgsMi41MyB6IG0gNS4yOTMsLTEuNDUgYyAwLjAxMiwwLjA3NCAtMC4wMTgsMC4xNSAtMC4wNzgsMC4xOTQgTCAyMi45LDI1LjU1OCBjIC0wLjAyNCwwLjAyIC0wLjA2LDAuMDIzIC0wLjA4NywwLjAwNyAtMC4wMjcsLTAuMDE2IC0wLjA0LC0wLjA1IC0wLjAzMywtMC4wOCB2IC0wLjY2IGMgMC4wMDMsLTAuMDcyIDAuMDUsLTAuMTM2IDAuMTE2LC0wLjE2MiBsIDIuNTE2LC0xLjUwNyBjIDAuMDI0LC0wLjAyIDAuMDYsLTAuMDIzIDAuMDg3LC0wLjAwNyAwLjAyNywwLjAxNiAwLjA0LDAuMDUgMC4wMzMsMC4wOCB2IDAuNTgyIHogTSAyNy4yODgsOS4wNiAxNy43MjYsMTQuOTY2IGMgLTEuMTkzLDAuNzA2IC0yLjA3LDEuNDc4IC0yLjA3LDIuOTE0IHYgMTEuNzc4IGMgMCwwLjg2IDAuMzUzLDEuNCAwLjg4MiwxLjU4IGEgMy4xNCwzLjE0IDAgMCAxIC0wLjUzLDAuMDUzIDMuMTMsMy4xMyAwIDAgMSAtMS41OTUsLTAuNDQxIEwgNC4zMDgsMjQuODUzIEMgMy4zLDI0LjI1IDIuNzAyLDIzLjE2NSAyLjcwNiwyMiBWIDEwLjAwMiBDIDIuNyw4LjgzNCAzLjMsNy43NSA0LjMwOCw3LjE0NCBMIDE0LjQxMywxLjE0NiBjIDAuOTgsLTAuNTggMi4xOTYsLTAuNTggMy4xNzYsMCBsIDEwLjEwNSw1Ljk5OCBjIDAuODMzLDAuNTA0IDEuNCwxLjM1IDEuNTUyLDIuMyAtMC4zMjgsLTAuNzEzIC0xLjA4MywtMC45IC0xLjk2MiwtMC4zOTUgaCAwLjAwMyB6IgogICAgIGZpbGw9IiMxYjFiMWYiCiAgICAgZmlsbC1ydWxlPSJldmVub2RkIgogICAgIGlkPSJwYXRoMSIKICAgICBzdHlsZT0iZmlsbDojYzdjN2M3O2ZpbGwtb3BhY2l0eToxIiAvPgo8L3N2Zz4K)
+  
+  <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0c1014?style=for-the-badge&logo=javascript)
+  ![Java](https://img.shields.io/badge/Java-0c1014?style=for-the-badge&logo=java)
+  ![Angular](https://img.shields.io/badge/Angular-0c1014?style=for-the-badge&logo=Angular)
+  ![HTML5](https://img.shields.io/badge/HTML5-0c1014?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-0c1014?style=for-the-badge&logo=css3&logoColor=264CE4) -->
+  
+  ![Vim](https://img.shields.io/badge/vim-0c1014?style=for-the-badge&logo=Vim)
+  ![VsCode](https://img.shields.io/badge/VsCode-0c1014?style=for-the-badge&logo=visualstudiocode)
+  ![Docker](https://img.shields.io/badge/Docker-0c1014?style=for-the-badge&logo=Docker)
+  ![Linux](https://img.shields.io/badge/Linux-0c1014?style=for-the-badge&logo=linux)
+  ![Windows](https://img.shields.io/badge/Windows-0c1014?style=for-the-badge&logo=windows11)
+  
+   
+  
+  
+  </div>
+  
+  ## GitHub Stats
+  
+  <div align="center">
+  
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljampietro&theme=gotham&border_color=0c1014&show_icons=true&icon-color=98cfcc&hide_title=true&hide=stars)
+  -->
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljampietro&layout=donut&bg_color=0c1014&border_color=0c1014&title_color=1c6956&text_color=98cfcc)
+  
+  </div>
+</body>
